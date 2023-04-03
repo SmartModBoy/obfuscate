@@ -1,0 +1,2 @@
+function AXAQJOMxsdPLDbFrCXkLeIUovbrzlzYWOcUjwRIUPmS(code)res=''for i in ipairs(code)do res=res..string.char(code[i]/105)end return res end 
+	local password = AXAQJOMxsdPLDbFrCXkLeIUovbrzlzYWOcUjwRIUPmS({7350,6930,7665,8715,12285,11970,12390,10605,11025,11340,11340,10185,11550,10395,10605,9030,10185,11550})
